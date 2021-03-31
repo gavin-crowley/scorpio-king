@@ -6,66 +6,23 @@ function _all(query) {
 }
 let songList = [
     {
-        thumbnail: "tako-set.jpg",
-        audio: "all-i-need.mp3",
-        songname: "All I Need",
-        artistname: "Air",
+        thumbnail: "march29.jpg",
+        audio: "march29-v2.m4a",
+        songname: "March 29",
+        artistname: "",
     },
     {
-        thumbnail: "cool-woman.PNG",
-        audio: "cool-woman.mp3",
-        songname: "Long Cool Woman in the Black Dress",
-        artistname: "The Hollies"
+        thumbnail: "march30.png",
+        audio: "march30.m4a",
+        songname: "March 30",
+        artistname: "",
+    },
+    {
+        thumbnail: "march31.png",
+        audio: "march31.m4a",
+        songname: "March 31",
+        artistname: ""
     }
-
-    // {
-    //     thumbnail: "Sunny_Looks_Good_on_You.jpg",
-    //     audio: "Sunny_Looks_Good_on_You.mp3",
-    //     songname: "Sunny Looks Good on You",
-    //     artistname: "Midnight North",
-    // },
-    // {
-    //     thumbnail: "Bright_Eyed_Blues.jpg",
-    //     audio: "Bright_Eyed_Blues.mp3",
-    //     songname: "Bright Eyed Blues",
-    //     artistname: "Unicorn Heads",
-    // },
-    // {
-    //     thumbnail: "How_it_Began.jpg",
-    //     audio: "How_it_Began.mp3",
-    //     songname: "How it Began",
-    //     artistname: "Silent Partner",
-    // },
-    // {
-    //     thumbnail: "Simon_s_Song.jpg",
-    //     audio: "Simon_s_Song.mp3",
-    //     songname: "Simon's Song",
-    //     artistname: "Dan Lebowitz",
-    // },
-    // {
-    //     thumbnail: "Scanline.jpg",
-    //     audio: "Scanline.mp3",
-    //     songname: "Scanline",
-    //     artistname: "Mike Relm",
-    // },
-    // {
-    //     thumbnail: "Flight_To_Tunisia.jpg",
-    //     audio: "Flight_To_Tunisia.mp3",
-    //     songname: "Flight To Tunisia",
-    //     artistname: "Causmic",
-    // },
-    // {
-    //     thumbnail: "Calimba.jpg",
-    //     audio: "Calimba.mp3",
-    //     songname: "Calimba",
-    //     artistname: "E's Jammy Jams",
-    // },
-    // {
-    //     thumbnail: "Everglow.jpg",
-    //     audio: "Everglow.mp3",
-    //     songname: "Everglow",
-    //     artistname: "Patrick Patrikios",
-    // }
 ];
 
 let currentSongIndex = 0;
