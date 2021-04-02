@@ -6,6 +6,12 @@ function _all(query) {
 }
 let songList = [
     {
+        thumbnail: "april2.png",
+        audio: "April2.m4a",
+        songname: "April 2",
+        artistname: ""
+    },
+    {
         thumbnail: "april1.png",
         audio: "April1.m4a",
         songname: "April 1",
